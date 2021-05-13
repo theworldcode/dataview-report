@@ -1,6 +1,5 @@
 <template>
   <div class="home">
-   roeport
    <top-view></top-view>
    <sales-view></sales-view>
    <bottom-view></bottom-view>
